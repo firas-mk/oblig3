@@ -1,6 +1,6 @@
 public class CheckTheLeapyear {
 
-    public static boolean isLeapYear(int year) {
+    public static boolean is_Leap_Year(int year) {
 
         if (year % 4 == 0) {
             if (year % 100 == 0) {
