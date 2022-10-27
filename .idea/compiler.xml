@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="04B TDD Roman Numerals" />
         <module name="04A TDD Roman Numerals" />
+        <module name="Oblig3" />
         <module name="hiof-sweat-2021-04-tdd-roman-numerals-93d42605ad9cb838bdf4213bead3eeec3e19a44a" />
         <module name="Oblig2" />
       </profile>

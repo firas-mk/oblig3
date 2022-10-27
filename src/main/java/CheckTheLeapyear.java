@@ -1,4 +1,4 @@
-public class Checking {
+public class CheckTheLeapyear {
 
     public static boolean isLeapYear(int year) {
 
