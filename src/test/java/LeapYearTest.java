@@ -9,7 +9,7 @@ public class LeapYearTest {
     public void checking_leap_year_it_is_divisible_by_4_but_not_100()
     {
         assertEquals(true, CheckTheLeapyear.is_Leap_Year(1108));
-        assertEquals(false, CheckTheLeapyear.is_Leap_Year(1216));
+        assertEquals(true, CheckTheLeapyear.is_Leap_Year(1216));
         assertEquals(true, CheckTheLeapyear.is_Leap_Year(2004));
         assertEquals(true, CheckTheLeapyear.is_Leap_Year(2008));
 
